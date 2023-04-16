@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Ian
+
+- 🔭 I’m currently working on a few Azure accounts.
+- 🌱 I’m currently learning AWS.
+- 👯 I’m looking to collaborate on cybersecurity.
+- ⚡ Fun fact: I have two cats
+
 <!--
 **iazh/iazh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
